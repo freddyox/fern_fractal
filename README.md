@@ -5,7 +5,6 @@
 
 ## Outputs:
 * Here is a traditional Barnsley fern and an animation:
-
 ![B fern](ferns/fractal_fern_100_white.png)
 
 ![B fern gif](animation/fern.gif)
